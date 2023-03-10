@@ -4,6 +4,7 @@
 >i am predicting price of laptop of given configuration.
 
 [Github repo](https://github.com/Mecsan/laptop-price-predictor)
+[LIVE](https://laptop-price-fspn.onrender.com/)
 
 ![output photo](https://github.com/Mecsan/laptop-price-predictor/blob/master/output/Screenshot%20(166).png?raw=true)
 
