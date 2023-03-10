@@ -21,4 +21,5 @@ def hello():
     return render_template("home.html",price=predict,ram=ram,hdd=hdd,ssd=ssd,flash=flash,hybrid=hybrid)
     
 
-app.run("localhost",3000,debug=True)
+if __name__ == "__main__":
+    app.run(debug=True)
